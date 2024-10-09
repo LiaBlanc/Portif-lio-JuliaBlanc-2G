@@ -6,6 +6,11 @@
   --cor-texto: #FEFEFE;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+}
+
 body{
   background-color: var(--cor-fundo);
   color: var(--cor-texto);
